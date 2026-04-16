@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "TSRCONCURSOS — TSRCONCURSOS - Soluções em Administração Pública e Privada",
+    "description": "Excelência em prestação de serviços e suporte para gestores públicos e privados."
+  },
+  "hero": {
+    "title": "TSRCONCURSOS - Soluções em Administração Pública e Privada",
+    "subtitle": "Excelência em prestação de serviços e suporte para gestores públicos e privados.",
+    "btnText": "Saiba Mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Serviços",
+    "items": [
+      {
+        "icon": "📊",
+        "title": "Processamento de Dados",
+        "desc": "Especialistas em organização e informatização de dados para melhorar a eficiência administrativa."
+      },
+      {
+        "icon": "🏛️",
+        "title": "Licitações Públicas",
+        "desc": "Treinamento e assessoria para garantir a conformidade e sucesso em licitações."
+      },
+      {
+        "icon": "📦",
+        "title": "Comércio Exterior",
+        "desc": "Assessoria completa em exportação e importação, facilitando sua atuação no mercado global."
+      },
+      {
+        "icon": "👥",
+        "title": "Departamento Pessoal",
+        "desc": "Serviços eficientes de gestão de pessoal, desde a contratação até a organização do quadro de funcionários."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre a T.S.R. Prestadora de Serviços",
+    "desc": "Fundada em 1997, a T.S.R. Prestadora de Serviços S/S Ltda é dedicada à prestação de serviços nas áreas de Administração Pública e Privada, com um time especializado que garante resultados concretos e de qualidade.",
+    "stats": [
+      {
+        "value": "26",
+        "label": "Anos de experiência"
+      },
+      {
+        "value": "100%",
+        "label": "Clientes satisfeitos"
+      },
+      {
+        "value": "200+",
+        "label": "Projetos concluídos com sucesso"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

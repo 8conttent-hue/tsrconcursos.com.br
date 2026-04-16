@@ -1,0 +1,53 @@
+{
+  "name": "TSRCONCURSOS",
+  "slug": "tsrconcursos.com.br",
+  "description": "A T.S.R. Prestadora de Serviços S/S Ltda empresa constituída em 01 de junho de 1.997, está voltada á prestação de serviços nas áreas de Administração Pública e Privada. A T.S.R. Prestadora de Serviços S/S Ltda vem atuando em várias cidades, dispondo de um quadro de profissionais altamente especializados e qualificados. A filosofia de trabalho da T.S.R. Prestadora de Serviços S/S Ltda tem por objetivo atingir resultados concretos nas suas respectivas áreas de atuação, levando, consequentemente, benefícios aos nossos clientes, em especial com a prestação de serviços de QUALIDADE e EXCELÊNCIA, trazendo um ótimo ambiente de trabalho, segurança, estabilidade e profissionalismo em sua equipe. Atendendo as exigências de mercado, e sobre tudo a necessidade de seus clientes, fornecendo soluções tecnologicamente adequadas. Tendo assim como missão, excelência técnica e ética aliada a uma atenção especial a nossos clientes. ÁREA DE TRABALHO A T.S.R Prestadora de Serviços S/S Ltda tem como objetivo ser um ponto de apoio importante aos Administradores Públicos e à Administração Pública bem como na Administração Privada em todos os seus níveis. Em todos esses anos de trabalho com experiência comprovada e seriedade incontestável, oferecemos nossos serviços especializados, contando com profissionais altamente qualificados e experiente no trabalho na execução de Prestação de Serviços nas áreas de Processamento de Dados, Organização e Informatização de Almoxarifado e Departamento Pessoal, Licitações Públicas (Treinamento e Assessoria), Comércio Exterior (Assessoria de Exportação e Importação) e outros setores da Administração Pública e Privada. Nossa atuação na Administração Pública, está diretamente voltada a: Treinamento e Assessoria em Licitações Públicas. Curso e Assessoria em Lei de Responsabilidade Fiscal. Realização de Concursos Públicos e Processos Seletivos. Organização das áreas de Almoxarifado, Departamento Pessoal, Expediente e Protocolo. Estudo do Quadro de Pessoal, Plano de Carreira e Propostas para Reforma ou Restruturação Administrativa. Emissão de recibos ou boletos. Coleta de Leituras Informatizadas. Outros demais serviços atinentes ao Serviço Público.",
+  "url": "https://tsrconcursos.com.br",
+  "niche": "Negócios e Empreendedorismo",
+  "keywords": "A T S R Prestadora de Servicos S S Ltda empresa constituida",
+  "email": "contato@tsrconcursos.com.br",
+  "palette": "slate",
+  "colors": {
+    "primary": "#334155",
+    "accent": "#1e293b",
+    "dark": "#0f172a"
+  },
+  "headerContrast": "dark",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-F",
+    "hero": "Hero-E",
+    "features": "Features-A",
+    "about": "About-A",
+    "posts": "Posts-F",
+    "footer": "Footer-E",
+    "sobre": "Sobre-F",
+    "contato": "Contato-C"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

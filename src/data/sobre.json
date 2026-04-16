@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o TSRCONCURSOS"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Fundada em 1997, a T.S.R. Prestadora de Serviços S/S Ltda é dedicada à prestação de serviços nas áreas de Administração Pública e Privada, com um time especializado que garante resultados concretos e de qualidade."
+  },
+  "content": "A T.S.R. Prestadora de Serviços S/S Ltda é uma referência no setor de administração e consultoria, oferecendo soluções adaptáveis às necessidades do mercado. Nossa missão é garantir excelência técnica e ética, mantendo um atendimento diferenciado e próximo ao cliente.",
+  "mission": "Prover serviços de qualidade que agreguem valor e tragam resultados efetivos para nossos clientes.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
